@@ -1,5 +1,5 @@
 # Software Engineering Project 2020-2021
-<img src="http://www.craniocreations.it/wp-content/uploads/2019/06/Masters-of-Renaissance_box3D_ombra.png" width=400px height=400px align="right" />
+<img src="https://github.com/pablogiaccaglia/MastersOfRenaissance/blob/master/deliverables/final/game.jpeg" width=300px height=400px align="right" />
 
 ![latest commit](https://img.shields.io/github/last-commit/Calonca/ing-sw-2021-laconca-lodari-giaccaglia?color=red)
 ![license](https://img.shields.io/badge/license-MIT-green)
